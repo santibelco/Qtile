@@ -1,2 +1,2 @@
 # Qtile
-Qtile COnfig
+Qtile Config
